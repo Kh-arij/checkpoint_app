@@ -1,0 +1,8 @@
+.end_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+}
